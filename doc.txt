@@ -1,0 +1,4 @@
+name anzum
+qulification 12
+age 18
+state delhi
